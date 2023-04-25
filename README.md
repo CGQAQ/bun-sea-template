@@ -13,7 +13,7 @@
     "entry": "index.ts",
     "lto": {
         "format": "esm",
-        "include": [
+        "includes": [
             "node_modules/**/*"
         ]
     }
@@ -25,7 +25,7 @@
     "entry": "index.ts",
     "lto": {
         "format": "esm",
-        "include": [
+        "includes": [
             "node_modules/**/*",
             "icons/**/*"
         ]

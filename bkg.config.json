@@ -2,7 +2,7 @@
     "entry": "index.ts",
     "lto": {
         "format": "esm",
-        "include": [
+        "includes": [
             "node_modules/**/*"
         ]
     }
